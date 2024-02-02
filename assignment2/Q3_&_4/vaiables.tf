@@ -62,17 +62,3 @@ variable "instance_type" {
 variable "availability_zone" {
   type = string
 }
-
-
-
-
-
-/*
-variable "aws_region" {
-  type = string
-}
-
-variable "nat_allocation" {
-  type = string
-}
-*/

@@ -32,9 +32,3 @@ sg_protocol = "tcp"
 ami_id     = "ami-0277155c3f0ab2930"
 instance_type    = "t2.micro"
 availability_zone = "us-east-1a"
-
-
-/*
-aws_region       = "ap-south-1"
-nat_allocation   = "aws_eip.lb1.id"
-*/
